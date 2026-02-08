@@ -36,4 +36,4 @@ Produktem powyższych założeń jest interaktywny dashboard wykonany w **Excelu
   <br>
   <br>
   <br>
-  ![Dashboard](img/dashboard.gif)
+  ![Dashboard](img/Dashboard.gif)
