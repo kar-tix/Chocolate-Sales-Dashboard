@@ -45,4 +45,4 @@ Plik z dashboardem znajduje się w [Chocolate Sales Dashboard.xlsx](Chocolate_Sa
 
   ## 🎬Animacja działania dashboardu
 
-  ![Dashboard](img/dashboard.gif)
+  ![Dashboard](img/Dashboard.gif)
